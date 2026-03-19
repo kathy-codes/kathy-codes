@@ -1,6 +1,12 @@
 ## Hi there 👋 I'm Kathy!
 
-Software Developer | From leading user onboarding to building platforms.
+<h4>Full Stack Software Developer</h4>
+<p>I began my career leading user onboarding for various SaaS platforms, and now I build platforms!</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kathy-codes&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathy-codes&layout=compact&theme=dark&hide_border=true" height="150" alt="languages card" />
+</div>
 
 ---
 
@@ -24,19 +30,10 @@ Software Developer | From leading user onboarding to building platforms.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="35" alt="vitest logo" />
 </div>
 
----
-
-### 📊 Github Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kathy-codes&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathy-codes&layout=compact&theme=dark&hide_border=true" height="150" alt="languages card" />
-</div>
-
----
 
 ### 🔗 Connect with me
 
-<div align="center">
+<div align="left">
   <a href="https://kathyyeung.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
   </a>
