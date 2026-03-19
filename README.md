@@ -3,11 +3,6 @@
 <h4>Full Stack Software Developer</h4>
 <p>I began my career leading user onboarding for various SaaS platforms, and now I build platforms!</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kathy-codes&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathy-codes&layout=compact&theme=dark&hide_border=true" height="150" alt="languages card" />
-</div>
-
 ---
 
 ### 🛠 Languages and Tools
